@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 2em;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 17px;
+    color: #646464;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: orange;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 80px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.uss{
+    text-align: right;
+    padding-right: 100px;
+    
+}
+

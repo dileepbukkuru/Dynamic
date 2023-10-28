@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.7em;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 17px;
+    color: #646464;
+   background: #fff url(images/templatemo_body_top.jpg) repeat-x;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 110px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.main{
+     display: flex;
+    flex-direction: row;
+}
+.log{
+  padding-left: 100px;
+}
+.contact{
+  padding-left: 50px;
+  padding-top: 80px;
+  
+ 
+}
+input{
+      width: 70%;
+  padding: 10px 15px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+textarea{
+    border-radius: 10px; 
+}
+img{
+      border: 1px solid #ddd;
+  border-radius: 4px;
+ height: 300px;
+ width: 400px;
+ 
+}
+button{
+    padding: 10px 24px;
+    text-align: center;
+    border-radius: 8px;
+     margin-top: 50px;
+}
+.sel{
+   
+     padding-left: 100px;
+    padding-top: 90px;
+   
+}
+.bu{
+    margin-top: 50px;
+}
