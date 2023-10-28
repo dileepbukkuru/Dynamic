@@ -33,7 +33,7 @@ and open the template in the editor.
 
                         </tr>
                         <tr>
-                            <td><input type="text" name="userid"></td>
+                            <td><input type="text" name="Auserid"></td>
 
                         </tr>
                         <tr>
@@ -41,7 +41,7 @@ and open the template in the editor.
 
                         </tr>
                         <tr>
-                            <td><input type="password" name="password"></td>
+                            <td><input type="password" name="Apassword"></td>
 
                         </tr>
 
