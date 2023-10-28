@@ -65,8 +65,8 @@ and open the template in the editor.
                     </tr>
                     <tr>
                         <td>
-                            Address :426 Grant Street<br>
-                            Hill Pune
+                            Address :KPHB Hyderabad<br>
+                            Telangana.
                         </td>
                     </tr>
                     <tr>
