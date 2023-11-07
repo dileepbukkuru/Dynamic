@@ -66,3 +66,11 @@ button{
     text-align: center;
     border-radius: 8px;
 }
+
+@media screen and (max-width: 450px) {
+    .main {
+        width: 100%;
+
+    }
+
+}

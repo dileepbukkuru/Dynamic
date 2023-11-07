@@ -26,7 +26,8 @@
                     <button class="dropbtn">VIEW</button>
                     <div class="dropdown-content">
                         <a href="Viewetails.php">Advatagments</a>
-                        <a href="#">Jobs</a>
+                        <a href="MessageReq.php">Message Request</a>
+                        <a href="FeedView.php">FEED BACK</a>
                         <a href="#">Vehicals</a>
                     </div>
                 </div>

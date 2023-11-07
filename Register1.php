@@ -2,6 +2,7 @@
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <meta name="viewpoint" content="width=device-width initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="Styles/reggg.css">
     </head>
     <body>
@@ -9,28 +10,18 @@
         <div class="nav">
 
             <ul>
-                <li><a href="Home1.php">HOME</a></li>
+                <li><a href="UserHome.php">HOME</a></li>
                 <li>
-                    <div class="dropdown">
-                        <button class="dropbtn">REGISTER</button>
-                        <div class="dropdown-content">
-                            <a href="Register1.php">Adva</a>
+                    <div class="dropdown highlight">
+                        <button class="dropbtn">VIEW</button>
+                        <div class="dropdown-content">s
+                            <a href="UserLog.php">Adva</a>
                             <a href="#">Link 2</a>
                             <a href="#">Link 3</a>
                         </div>
                     </div>
                 </li>
-                <li>
-                    <div class="dropdown">
-                        <button class="dropbtn">VIEW</button>
-                        <div class="dropdown-content">
-                            <a href="Viewetails.php">Advatagments</a>
-                            <a href="#">Jobs</a>
-                            <a href="#">Vehicals</a>
-                        </div>
-                    </div>
-                </li>
-                <li><a href="VehicleInfo.php">VEHICLE INFO</a></li>
+                <li><a href="UserVech.php">FEEDBACK</a></li>
                 <li><a href="CPass.php">CHANGE PASSWORD</a></li>
                 <li><a href="Home.php">LOGOUT</a></li>
             </ul></div>
@@ -87,18 +78,18 @@
                 </table>
                 </form>
             </div>
-            <div class="abou">
-                <h2>About</h2>
-                 <ul>
-                <li><a href="">The Company</a></li>
-                <li><a href="">The Team</a></li>
-                <li><a href="">Testmonials</a></li>
-                <li><a href="">Gallery</a></li>
-                
-            </ul>
-            </div>
-            
-        </div>
+            <!--            <div class="abou">-->
+            <!--                <h2>About</h2>-->
+            <!--                 <ul>-->
+            <!--                <li><a href="">The Company</a></li>-->
+            <!--                <li><a href="">The Team</a></li>-->
+            <!--                <li><a href="">Testmonials</a></li>-->
+            <!--                <li><a href="">Gallery</a></li>-->
+            <!--                -->
+            <!--            </ul>-->
+            <!--            </div>-->
+            <!--            -->
+            <!--        </div>-->
         
     </body>
 </html>

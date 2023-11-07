@@ -22,7 +22,7 @@ and open the template in the editor.
 </div>
 <div class="main">
     <div class="log">
-        <form name="login" action="" method="post" autocomplete="off">
+        <form name="login" action="UserData.php" method="post" autocomplete="off">
             <table>
                 <tr>
                     <td><h2>USER LOGIN</h2></td>
